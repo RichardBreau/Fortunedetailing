@@ -3,7 +3,7 @@ main {
     height: calc(100vh - 50px);
     background-color: #545454;
     margin-top: px;
-    background-image: url(/picture/bg4.png);
+    background-image: url(bg4.png);
     opacity: 1;
     background-size: cover;
     background-repeat: no-repeat;
@@ -185,7 +185,7 @@ main {
 .index-category-box1 {
     width: 200px;
     height: 200px;
-    background-image: url(/Porche/wasjh.jpg);
+    background-image: url(wasjh.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -197,7 +197,7 @@ main {
 .index-category-box2 {
     width: 200px;
     height: 200px;
-    background-image: url(/Mercedes/IMG_6140.jpg);
+    background-image: url(IMG_6140.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -209,7 +209,7 @@ main {
 .index-category-box3 {
     width: 200px;
     height: 200px;
-    background-image: url(/Ford/IMG_6524.jpg);
+    background-image: url(IMG_6524.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -221,7 +221,7 @@ main {
 .index-category-box4 {
     width: 200px;
     height: 200px;
-    background-image: url(/Crosstrek/IMG_6001.jpg);
+    background-image: url(IMG_6001.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -233,7 +233,7 @@ main {
 .index-category-box5 {
     width: 200px;
     height: 200px;
-    background-image: url(/CRV/IMG_5985.jpg);
+    background-image: url(IMG_5985.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -245,7 +245,7 @@ main {
 .index-category-box6 {
     width: 200px;
     height: 200px;
-    background-image: url(/pictures/bg3.png);
+    background-image: url(bg3.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
